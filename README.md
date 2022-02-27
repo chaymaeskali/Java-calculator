@@ -1,4 +1,4 @@
 # Java-calculator![calculator]
 
 The UI Design of the Desktop App
-(https://user-images.githubusercontent.com/73290243/155880642-62ceada9-d451-4819-b463-83415cbb1194.PNG)
+![calculator](https://user-images.githubusercontent.com/73290243/155880680-95935025-81a0-4e90-b472-6ea9f8b99cfe.PNG)
